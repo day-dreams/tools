@@ -7,7 +7,7 @@
 
     命令行下ipv4地址和32位无符号整数的互换
 
-* [whereisip](./whereisip)
+* [ipwhereis](./ipwhereis)
 
     命令行下ip地址查询，使用淘宝ip地址库接口
 
