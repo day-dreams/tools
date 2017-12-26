@@ -1,0 +1,1 @@
+cp killall.sh /usr/local/bin
